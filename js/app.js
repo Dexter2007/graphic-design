@@ -1,0 +1,2 @@
+var yourName = prompt("what is your name");
+alert("Hello " + yourName + " welcome to my site, There is a link at the bottom of the page that will take you to my TEESPRING STORE where you can pay and do all the necessary arrangements for your desired item. I do hope you find what you are looking for. " )
